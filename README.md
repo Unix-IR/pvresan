@@ -11,11 +11,11 @@
 ```sh
 # Tested and will run without problem
 
-Import the https://github.com/alireza1998/pvresan to your Github and edit(line 2 token|line 118 userid-admin)
+Import the https://github.com/Unix-IR/pvresan to your Github and edit(line 2 token|line 118 userid-admin)
 Creating an account on the site www.openshift.com
 And build an application
 Choose PHP 5.4
-Import ex: https://github.com/alireza1998/pvresan.git
+Import ex: https://github.com/Unix-IR/pvresan.git
  And click on Create Application
  
 The last step is to set the webhook
